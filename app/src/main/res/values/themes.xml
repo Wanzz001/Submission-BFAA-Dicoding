@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GithubUserApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/www</item>
+        <item name="colorPrimaryVariant">@color/www</item>
+        <item name="colorAccent">@color/www</item>
+        <item name="android:actionBarStyle">@color/www</item>
+    </style>
+
+    <style name="Theme.GithubUserApp" parent="Base.Theme.GithubUserApp">
+        <item name="colorPrimary">@color/www</item>
+<!--        <item name="colorPrimaryVariant">@color/www</item>-->
+<!--        <item name="colorAccent">@color/www</item>-->
+<!--        <item name="android:actionBarStyle">@color/www</item>-->
+    </style>
+</resources>

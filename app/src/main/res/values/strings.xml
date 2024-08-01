@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GithubUserApp</string>
+    <string name="not_found">Not Found</string>
+    <string name="name">Name</string>
+    <string name="fullname">Fullname</string>
+    <string name="username">username</string>
+    <string name="company">Company</string>
+    <string name="company_name">Company name</string>
+    <string name="blog">Blog</string>
+    <string name="blog_url">blog_url</string>
+    <string name="location">Location</string>
+    <string name="bandung_indonesia">Bandung Indonesia</string>
+    <string name="example_company_com">example@company.com</string>
+    <string name="email">Email</string>
+    <string name="detail_user">Detail User</string>
+    <string name="_99">99</string>
+    <string name="followers">Followers</string>
+    <string name="followings">Followings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_00">00</string>
+    <string name="setting">Setting</string>
+    <string name="search">Search</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
